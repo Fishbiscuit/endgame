@@ -14,7 +14,8 @@
 
 ### Motivation
 
-```
-TODO
-```
+Currently, Wireshark is most commonly used to capture packets and create pcap files. However the sheer amount of background knowledge makes it inaccessible as a teaching tool to learn network security principles.
 
+We take our cybersecurity for granted until it is too late. All it takes is a single vulnerability.
+
+The ability to monitor network traffic in its entirety and produce usable data LIVE will greatly lower the barrier to entry to defending your organisation from cyberattacks. One needs to identify the weakest links quickly as adversaries will definitely be seeking them out as easy targets to carry out malicious activity and wreak havoc within your organisation.
